@@ -17,16 +17,23 @@ Simple and optimized Crosshair for FiveM servers originally made for BlackLight 
 
 ## Installation
 
-```
+
 - unzip the file → brp-crosshair
+- Remove **main** from the name
 - place it in your server's resource folder
 
-- make sure to add → ensure brp-crosshair to your server.cfg
+- make sure to add
+```
+ensure brp-crosshair
+```
+- to your server.cfg
 - If you have it in a subfolder like [standalone] no need to ensure it
 - restart the server
-```
+
 ## Credits:
 - A rewrite of mrm
 - Thanks @NCDev for the inspiration.
 
 ---
+
+
