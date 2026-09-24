@@ -3,8 +3,12 @@ game 'gta5'
 lua54 'yes'
 
 author 'Bluster_Madness'
-description 'Simple crosshair.'
-version '1.1.0'
+description 'Bluster Crosshair - Free & Open Source'
+version '1.1.1'
+
+escrow_ignore {
+    'client/*.lua'
+}
 
 client_scripts {
     'client/*.lua'
